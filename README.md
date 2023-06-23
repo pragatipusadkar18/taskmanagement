@@ -16,6 +16,7 @@ A simple task management system that allows users to create, update, and delete 
 
 ## Screenshots
 
-![image](https://github.com/pragatipusadkar18/taskmanagement/assets/130049905/d7d9d8a2-3bc2-46dc-8b9b-eed4264f9672)
+![image](https://github.com/pragatipusadkar18/taskmanagement/assets/130049905/9516adb2-be74-42a4-b1f0-1c8ebf1af774)
+
 
 
